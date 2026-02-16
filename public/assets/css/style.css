@@ -11,6 +11,11 @@
     font-size: 60px;
     color: #f0f8ff;
 }
+#submit{
+    height: 30px;
+    width: 30px;
+    margin-bottom: -8px;
+}
 #site-search{
     /* input */
     margin-top: 50px;
